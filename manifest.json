@@ -5,7 +5,9 @@
   "theme": {
     "colors" : {
       "frame" : [68, 68, 68],
-      "frame_inactive": [ 68, 68, 68]
+      "frame_inactive": [68, 68, 68],
+      "frame_incognito": [68, 68, 68],
+      "frame_incognito_inactive": [68, 68, 68]
     }
   }
 }
